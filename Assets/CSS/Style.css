@@ -1,0 +1,30 @@
+/* Imports CSS */
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@100;200;300;400;500;600;700;800&display=swap');
+@import url(header.css);
+@import url(Section__main/section__banner.css);
+@import url(Section__main/section__courses.css);
+@import url(Section__main/section__categorias.css);
+@import url(Section__main/section__instrutor.css);
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-family: 'Public Sans', sans-serif;
+}
+
+
+/* Variáveis Css */
+:root{
+     /* Cores */
+  --cor-verde:#20B486;
+  --cor-preto:#06241b;
+  --cor-branco:#fff;
+  --cor-verde-claro:#e9f8f3b3;
+  --cor-laranja:#FFC27A;
+  --cor-cinza:#6D737A;
+  --cor-laranja-claro:#FFFAF5;
+}
+

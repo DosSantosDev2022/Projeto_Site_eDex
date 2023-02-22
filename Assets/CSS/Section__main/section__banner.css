@@ -1,0 +1,55 @@
+.section__banner__container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem;
+  gap: 2rem;
+  background-color: var(--cor-branco);
+}
+
+.section__banner__text{
+  padding: 1rem;
+}
+
+.section__banner__text span{
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--cor-verde);
+}
+.section__banner__text h1{
+  width: 500px;
+  font-size: 3.5rem;
+  font-weight: 600;
+  text-align: start;
+}
+.section__banner__text h1  span{
+  font-size: 3.5rem;
+  font-weight: 600;
+}
+
+.section__banner__text p {
+  color: var(--cor-cinza);
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.section__banner__text input{
+  margin-top: 1rem;
+  outline: none;
+  border: none;
+  box-shadow: 1px 1px 1px 1px ;
+  width: 400px;
+  padding: 0.90rem;
+  border-radius: 7px;
+  color: var(--cor-cinza);
+}
+
+.section__banner__cards{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+.section__banner__cards img{
+  width: 35%;
+}
