@@ -1,0 +1,39 @@
+
+.section__Achievement_container{
+  display: flex;
+  align-items: center;
+  padding: 5rem;
+  justify-content: center;
+  gap: 4rem;
+}
+
+.Achievement__title h2{
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.Achievement__title span{
+  color: var(--cor-verde);
+}
+
+.Achievement__title p{
+  font-size: 1.2rem;
+  color: var(--cor-cinza);
+}
+
+.Achievement__itens{
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+  align-items: start;
+}
+
+.Achievement__itens img{
+  width: 70%;
+}
+
+.Achievement__woman img{
+  width: 70%;
+  background-color: var(--cor-laranja);
+  border-radius: 20px 12px 32px 12px ;
+}

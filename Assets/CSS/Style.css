@@ -5,6 +5,8 @@
 @import url(Section__main/section__courses.css);
 @import url(Section__main/section__categorias.css);
 @import url(Section__main/section__instrutor.css);
+@import url(Section__main/section__achievement.css);
+@import url(Section__main/Section__feedback.css);
 
 *{
   margin: 0;
