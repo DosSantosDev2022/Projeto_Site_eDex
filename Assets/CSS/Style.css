@@ -8,6 +8,7 @@
 @import url(Section__main/section__achievement.css);
 @import url(Section__main/Section__feedback.css);
 @import url(Section__main/section__learning.css);
+@import url(footer.css);
 
 *{
   margin: 0;
